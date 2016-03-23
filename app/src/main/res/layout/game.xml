@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> refs/remotes/origin/master
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:rowCount="32"
     android:columnCount="26">
 
+<<<<<<< HEAD
     <ImageSwitcher
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -26,3 +31,6 @@
         android:layout_row="3"
         android:layout_column="1" />
 </GridLayout>
+=======
+</TableLayout>
+>>>>>>> refs/remotes/origin/master
